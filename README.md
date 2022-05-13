@@ -1,9 +1,14 @@
 # awesome-xinwuyun
 
+## 个人主页
+
++ [resume](https://about.xinwuyun.cloud)
++ [notes](https://xinwuyun.github.io)
+
 ## 科研项目
 
 + [OPTAPLANNER核心改造](https://github.com/xinwuyun/optaplanner-alter)
-+ []
++ [MEC问题研究](https://github.com/xinwuyun/optaplanner-alter)
 
 ## serverless devs组件开发
 
@@ -25,3 +30,4 @@
 
 + [高可用性图书馆管理系统（对接支付宝，对接国家图书ISBNAPI，支持扫码添加图书等实用功能）](https://github.com/SPM-A3/SPM-frontend)——[网站demo](http://spm.xinwuyun.cloud)
 + [煤炭大数据实时监控系统](https://github.com/BigDataWork)——[网站demo](https://bigdatawork.github.io/hailiang-page/)
++ [基于人脸识别登录和在线合同签署系统，vue+spring+微信小程序](https://github.com/xinwuyun/facedec-SHOGOKI)
