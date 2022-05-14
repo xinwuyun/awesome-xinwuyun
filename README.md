@@ -33,5 +33,4 @@
 + [基于人脸识别登录和在线合同签署系统，vue+spring+微信小程序](https://github.com/xinwuyun/facedec-SHOGOKI)
 + [gulu无线听诊器系统(前端)](https://github.com/gulu)
 + [百年红魂党史知识图谱小程序](https://shlande-repo.coding.net/p/zhishitupu/d/red/git) (在coding.net)
-+ 。。。。
 
