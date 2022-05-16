@@ -10,6 +10,10 @@
 + [OPTAPLANNER核心改造](https://github.com/xinwuyun/optaplanner-alter)
 + [MEC问题研究](https://github.com/xinwuyun/optaplanner-alter)
 
+## 云计算技术研究
+
++ [XdFileSystem：Hadoop源码剖析——实现了一个hadoop FileSystem的子类](https://github.com/xinwuyun/XidianFileSystem)
+
 ## serverless devs组件开发
 
 + [百度智能云CFC组件](https://github.com/xinwuyun/cfc)
