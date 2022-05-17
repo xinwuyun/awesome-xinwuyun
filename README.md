@@ -38,3 +38,6 @@
 + [gulu无线听诊器系统(前端)](https://github.com/gulu)
 + [百年红魂党史知识图谱小程序](https://shlande-repo.coding.net/p/zhishitupu/d/red/git) (在coding.net)
 
+
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/88250/hits.svg"></a>
+
