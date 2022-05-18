@@ -8,7 +8,7 @@
 ## 科研项目
 
 + [OPTAPLANNER核心改造](https://github.com/xinwuyun/optaplanner-alter)
-+ [MEC问题研究](https://github.com/xinwuyun/optaplanner-alter)
++ [MEC问题研究](https://github.com/xinwuyun/MEC-research-QoE)
 
 ## 云计算技术研究
 
