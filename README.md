@@ -26,7 +26,7 @@
 
 + [基于AnimeGAN2+serverless+NAS存储的漫画风图片生成工具](https://github.com/xinwuyun/serverless-ai-demo)——[网站demo](http://face.xinwuyun.cloud)
 + [serverless绘图语言云编译器](https://github.com/xinwuyun/draw-frontend)——[网站demo](https://drawer.xinwuyun.cloud)
-+ [OnedriveBlog](https://github.com/xinwuyun/ODBlog)——Onedrive订阅过期，网站停用
++ [OnedriveBlog基于Onedrive和腾讯云函数的博客系统](https://github.com/xinwuyun/ODBlog)——Onedrive订阅过期，网站停用
 + [基于死信队列和EnevtBridge触发器的延迟任务部署应用](https://github.com/xinwuyun/serverless-delay-task)
 + [基于Serverless的猫狗识别和模型升级系统](https://github.com/xinwuyun/serverless-dog-vs-cat) ——[网站demo](https://dvc.xinwuyun.cloud)
 + ...
